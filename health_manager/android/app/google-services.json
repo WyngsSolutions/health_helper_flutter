@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923363915608",
+    "project_id": "health-manager-79877",
+    "storage_bucket": "health-manager-79877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923363915608:android:af91504aea759171e0972d",
+        "android_client_info": {
+          "package_name": "com.kv.health.manager.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923363915608-dfbu61jpl59n1c15ru5g3etq6e28fqrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCAxwO43IANeeO3KZTHTGqILPXS5jfYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923363915608-dfbu61jpl59n1c15ru5g3etq6e28fqrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
